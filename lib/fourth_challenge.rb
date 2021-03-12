@@ -20,11 +20,3 @@ def fourth_challenge
    }
 }
 
-<<<<<<< HEAD
-
-=======
-  epic_tragedy[:capulet][:heroine][:status] = "dead"
-
-    puts epic_tragedy
->>>>>>> becc54119517f6f594245edb55188c855b738731
-  end
